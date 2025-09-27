@@ -1,7 +1,8 @@
-## My Languages
+## 📊 Stats
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virus1es&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Virus1es&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virus1es&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170"/>
 </div>
 
 ## 🚀 Skills
