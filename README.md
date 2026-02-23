@@ -1,11 +1,24 @@
-## 📊 Stats
+# 👋 Привет, я Вадим!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virus1es&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virus1es&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170"/>
-</div>
+## 🎓 Обо мне
+Магистрант **Университета ИТМО** (Санкт-Петербург), направление «Веб-технологии». Родом из Докучаевска, сейчас живу и учусь в Питере.
 
-## 🚀 Skills
+## 🚀 Над чем работаю сейчас
+Сейчас активно подтягиваю и углубляю знания в **JavaScript**, **React** и **TypeScript**.
+
+## 🛠 Мой стек технологий
+- **Frontend:** React, Next.js, TypeScript, react-router
+- **Стили:** Tailwind CSS
+- **Инструменты:** Vite, Docker (базовый уровень)
+- **Code Quality:** ESLint, Prettier
+
+## 📫 Как связаться
+Открыт к диалогу! Написать мне можно в **Telegram** или другие мессенджеры — ссылки на них есть в моем профиле.
+
+---
+*Открыт к предложениям о работе и интересным проектам!*
+
+## 🚀 Навыки
 
 <div align="center">
   
@@ -28,10 +41,4 @@
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Virus1es&theme=discord&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
