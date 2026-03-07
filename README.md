@@ -4,7 +4,7 @@
 Магистрант **Университета ИТМО** (Санкт-Петербург), направление «Веб-технологии». Родом из Докучаевска, сейчас живу и учусь в Питере.
 
 ## 🚀 Над чем работаю сейчас
-Сейчас активно подтягиваю и углубляю знания в **JavaScript**, **React** и **TypeScript**.
+Сейчас активно подтягиваю и углубляю знания в **JavaScript**, **React** и **TypeScript**. Учусь работать с NoSQL БД (на примере **MongoDB**).
 
 ## 🛠 Мой стек технологий
 - **Frontend:** React, Next.js, TypeScript, react-router
@@ -40,3 +40,10 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </div>
+
+## 🎓 Обо мне (более подробно)
+Как фронтенд-разработчик и владею: **JS, TS, React, Tailwind CSS, Next.js**. Имею опыт работы с **PrismaORM, Angular**, различными наборами готовых компонентов для React(**Shadcn, HeroUI**), работал с **zod**.
+Имею навыки использования: **Docker, Git**.
+В прошлом очень много работал с backend разработкой, поэтому знаю: **C#, .NET Core, Entity Framework**. Так же писал приложения **WPF и WinForms**.
+Имею опыт использования реляционных баз данных: **MS SQL, PostgreSQL**.
+К моим **soft skill** я могу отнести: стрессоустойчивость, целеустремленность, не боюсь задавать вопросы старшим коллегам, готов учиться и познавать все тонкости, пунктуальный, а также доброжелателен
