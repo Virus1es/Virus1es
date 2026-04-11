@@ -7,7 +7,7 @@
 Сейчас активно подтягиваю и углубляю знания в **JavaScript**, **React** и **TypeScript**. Учусь работать с NoSQL БД (на примере **MongoDB**).
 
 ## 🛠 Мой стек технологий
-- **Frontend:** React, Next.js, TypeScript
+- **Frontend:** React, TypeScript
 - **Стили:** Tailwind CSS
 - **Инструменты:** Vite, Docker (базовый уровень)
 - **Code Quality:** ESLint, Prettier
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
